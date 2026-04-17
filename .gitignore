@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+.venv312/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data cache
+cache_yf/
+cache_yf_*.pkl
+
+# IDE
+.vscode/
+.vs/
+*.code-workspace
+
+# Secrets
+.env
